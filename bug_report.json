@@ -1,1 +1,11 @@
-
+{  
+  "id": 1,  
+  "severity": "low",  
+  "title": "link [apply] doesn't send the form",  
+  "STR": "1.Open link below the main page, 2. Fill in form data: Name, e-mail, 3.Click [Apply] button"  
+  "ER": "Form sent",  
+  "AR": "Nothing goes after click",  
+  "Environment": "Windows 10 Pro, Google Chrome 114.0",  
+  "Attachments": "Screencast_1",  
+  "Comments": "Null"  
+}  
